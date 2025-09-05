@@ -1,15 +1,13 @@
 {
-    "name": "Quinielas NFL",
-    "short_name": "Quinielas NFL",
+    "name": "quinielas_app_v3",
+    "short_name": "quinielas_app_v3",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#013369",
-    "theme_color": "#013369",
-    "description": "Aplicación para gestionar y participar en quinielas de fútbol americano. Crea quinielas, elige equipos y compite con otros participantes.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    "categories": ["sports", "entertainment", "games"],
-    "lang": "es",
     "icons": [
         {
             "src": "icons/Icon-192.png",
